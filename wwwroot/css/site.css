@@ -1,0 +1,30 @@
+﻿body {
+    padding-top: 70px;
+}
+
+.navbar-brand {
+    padding: 10px;
+    height: auto;
+}
+
+.navbar-brand > img {
+    max-height: 50px;
+}
+
+
+.navbar-nav > li > a {
+    padding: 25px 18px;
+    font-weight: bold;
+    color: #2a80bb;
+}
+
+
+.signinForm {
+    margin-top: 80px;
+}
+
+.signinForm .signinWrapper > h4 {
+    border-bottom: 1px solid #c5c5c5;
+    padding: 10px;
+    margin-bottom: 25px;
+}

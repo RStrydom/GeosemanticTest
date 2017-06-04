@@ -1,0 +1,8 @@
+/home/renierp/devbox/GeosemanticTest/bin/Debug/netcoreapp1.1/GeosemanticTest.deps.json
+/home/renierp/devbox/GeosemanticTest/bin/Debug/netcoreapp1.1/GeosemanticTest.runtimeconfig.json
+/home/renierp/devbox/GeosemanticTest/bin/Debug/netcoreapp1.1/GeosemanticTest.runtimeconfig.dev.json
+/home/renierp/devbox/GeosemanticTest/bin/Debug/netcoreapp1.1/GeosemanticTest.dll
+/home/renierp/devbox/GeosemanticTest/bin/Debug/netcoreapp1.1/GeosemanticTest.pdb
+/home/renierp/devbox/GeosemanticTest/obj/Debug/netcoreapp1.1/GeosemanticTest.AssemblyInfo.cs
+/home/renierp/devbox/GeosemanticTest/obj/Debug/netcoreapp1.1/GeosemanticTest.dll
+/home/renierp/devbox/GeosemanticTest/obj/Debug/netcoreapp1.1/GeosemanticTest.pdb
